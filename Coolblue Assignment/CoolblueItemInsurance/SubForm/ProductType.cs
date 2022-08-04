@@ -78,6 +78,10 @@ namespace CoolblueItemInsurance
 
         }
 
+        private void TypeTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     } 
     
 }

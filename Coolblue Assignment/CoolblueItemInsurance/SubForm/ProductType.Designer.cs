@@ -126,6 +126,7 @@ namespace CoolblueItemInsurance
             this.TypeTextBox.Name = "TypeTextBox";
             this.TypeTextBox.Size = new System.Drawing.Size(171, 38);
             this.TypeTextBox.TabIndex = 41;
+            this.TypeTextBox.TextChanged += new System.EventHandler(this.TypeTextBox_TextChanged);
             this.TypeTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.TypeTextBox_KeyDown);
             // 
             // button2
