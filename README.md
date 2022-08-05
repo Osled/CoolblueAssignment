@@ -57,4 +57,5 @@ The Website runs three Panels  all three panels can be accessed through the left
 - ID page searchs a Json file from a web http that hosts page [https://api.npoint.io/eed1401b570f01972c9b].
 - ID Type page searchs a Json file from a web http that hosts page [https://api.npoint.io/9217f1e291b1bc24edb6].
 - Caluculation done: is a switch case that checks if the item is insured and if its a Laptop or a Smartphone, then calculates the total insurance cost.
+- The Code that hosts the funtion of which it applies the changes of the information presented is inside the App Form. and called on pressing the Search Button.
 
