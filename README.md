@@ -27,7 +27,7 @@ Access the Solution and chose "Manage Nuget Packages for Solution" to install th
       Designed to run Automated testing
 
 ## Run App
-Install the Github file move to the following directory **CoolblueAssignment\Coolblue Assignment\CoolblueItemInsurance**.
+Install the Folder from Github, move to the following directory **CoolblueAssignment\Coolblue Assignment\CoolblueItemInsurance**.
 Run the **CoolblueItemInsurance.sln** .
 to access the app without the code access the Setup file and install the App
 to access the App with Visual Studio, press the run/ Play button in visual studio
