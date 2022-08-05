@@ -1,6 +1,7 @@
 # CoolblueAssignment
 ## Introduction
 ### The soltion is Designed to run a Window Form that presents the Coolblue products information by searching the product ID and Type ID. the end-point is the Name of the products, ID, SalePrice, Product Type, Insurance calculated cost. 
+The App runs fully using C#
 
 
 ## Setup
